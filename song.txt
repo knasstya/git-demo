@@ -5,3 +5,7 @@ pampidam
 
 pam param pam
 pum piram pum
+
+tru lala
+tri rublya
+_______________
