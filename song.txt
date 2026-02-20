@@ -3,5 +3,5 @@ pam pam
 pumpidum
 pampidam
 
-pam param
-pum piram
+pam param pam
+pum piram pum
