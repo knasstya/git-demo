@@ -12,3 +12,6 @@ v zhope dyry
 come on 
 come on
 
+tru lala
+pam param
+>>>>>>> feature
